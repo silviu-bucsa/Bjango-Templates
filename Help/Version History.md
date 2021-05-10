@@ -1,5 +1,26 @@
 # Bjango App Icon Templates version history
 
+### 1.9
+
+9 April 2020
+
+- Improved Android app icon template export names.
+- Improved Android app Play store icon background area.
+- Updated Sketch docs to latest doc format.
+
+### 1.8
+
+21 September 2018
+
+- Removed the Sketch quick templates (no longer needed, as the other Sketch templates are better and use symbols).
+- Added some more colour management info.
+
+### 1.7
+
+8 March 2018
+
+- Updated all iOS app icon templates to include 40×40 and 180×180px.
+
 ### 1.6
 
 1 April 2017
