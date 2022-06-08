@@ -4,7 +4,7 @@
 
 The [Bjango App Icon Templates](https://bjango.com/designresources/) are a comprehensive set of app icon templates for Photoshop, Illustrator, Sketch, and Affinity Designer. The templates cover Android, iOS, macOS, Apple TV (tvOS), Apple Watch (watchOS), iMessage, Windows, Windows Phone and web favicons. Where possible, they’re set up to automate exporting final production assets. All free and open source, released under the [BSD license](https://github.com/bjango/Bjango-Templates/blob/master/Help/License.md).
 
-**Download:** **[Bjango App Icon Templates](https://github.com/bjango/Bjango-Templates/archive/master.zip)** — 1.7 ([version history](https://github.com/bjango/Bjango-Templates/blob/master/Help/Version%20History.md))
+**Download:** **[Bjango App Icon Templates](https://github.com/bjango/Bjango-Templates/archive/master.zip)** — 1.9 ([version history](https://github.com/bjango/Bjango-Templates/blob/master/Help/Version%20History.md))
 
 -----
 
@@ -14,7 +14,6 @@ The [Bjango App Icon Templates](https://bjango.com/designresources/) are a compr
 - [Using the Photoshop templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-photoshop-templates)
 - [Using the Illustrator templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-illustrator-templates)
 - [Using the Sketch templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-sketch-templates)
-- [Using the Sketch quick templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-sketch-quick-templates)
 - [Using the Affinity Designer templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-affinity-designer-templates)
 - [Using other design tools](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-other-design-tools)
 - [iOS, tvOS and other icon masks](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#ios-tvos-and-other-icon-masks)
@@ -22,8 +21,8 @@ The [Bjango App Icon Templates](https://bjango.com/designresources/) are a compr
 - [Hashes in export names](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#hashes-in-export-names)
 - [Compressing images](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#compressing-images)
 - [Platform icon sizes](https://github.com/bjango/Bjango-Templates/blob/master/Help/Icon%20Sizes.md)
-- [Platform versions](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#platform-versions)
 - [Style guide](https://github.com/bjango/Bjango-Templates/blob/master/Help/Style%20Guide.md)
+- [Colour management](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#colour%20management)
 - [Tips](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#tips)
 - [Version history](https://github.com/bjango/Bjango-Templates/blob/master/Help/Version%20History.md)
 - [License](https://github.com/bjango/Bjango-Templates/blob/master/Help/License.md)

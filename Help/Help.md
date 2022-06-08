@@ -4,7 +4,6 @@
 - [Using the Photoshop templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-photoshop-templates)
 - [Using the Illustrator templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-illustrator-templates)
 - [Using the Sketch templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-sketch-templates)
-- [Using the Sketch quick templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-sketch-quick-templates)
 - [Using the Affinity Designer templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-affinity-designer-templates)
 - [Using other design tools](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-other-design-tools)
 - [iOS, tvOS and other icon masks](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#ios-tvos-and-other-icon-masks)
@@ -12,8 +11,8 @@
 - [Hashes in export names](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#hashes-in-export-names)
 - [Compressing images](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#compressing-images)
 - [Platform icon sizes](https://github.com/bjango/Bjango-Templates/blob/master/Help/Icon%20Sizes.md)
-- [Platform versions](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#platform-versions)
 - [Style guide](https://github.com/bjango/Bjango-Templates/blob/master/Help/Style%20Guide.md)
+- [Colour management](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#colour%20management)
 - [Tips](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#tips)
 - [Version history](https://github.com/bjango/Bjango-Templates/blob/master/Help/Version%20History.md)
 - [License](https://github.com/bjango/Bjango-Templates/blob/master/Help/License.md)
@@ -107,18 +106,6 @@ The `All Icons` slice exports a single image of all the icons.
 
 -----
 
-### Using the Sketch quick templates
-
-Double-click `Install Sketch quick templates` to install the templates and make them available from the `File` → `New From Template` menu within Sketch.
-
-The templates listed below provides a quick way to export all the various sizes from a single piece of artwork. This isn’t my preferred way to work, but it may be a good template to use as a starting point when exploring ideas. To export, click `Export` in the toolbar.
-
-- `App Icon - Apple iMessage (Quick).sketch`- `App Icon - Apple iOS (Quick).sketch`- `App Icon - Apple macOS (Quick).sketch`- `App Icon - Apple watchOS (Quick).sketch`- `App Icon - Google Android (Quick).sketch`- `App Icon - Google Android adaptive icon.sketch`- `Favicon - Web (Quick).sketch`
-
-![](/Help/images/sketch-ios-quick.png)
-
------
-
 ### Using the Affinity Designer templates
 
 For most Affinity Designer templates, create your artwork in the `Icon Artwork` group, inside the icon size folders.
@@ -174,15 +161,19 @@ A full list of icon sizes, pixel densities, likely uses and official source link
 
 -----
 
-### Platform versions
-
-The Bjango App Icon Templates comply with iOS 9, watchOS 2, Android 6, and Windows 10 UWP. Update dates can be found in the [version history](https://github.com/bjango/Bjango-Templates/blob/master/Help/Version%20History.md). If you’d like to read the official documentation, links can be found on the [Platform icon sizes](https://github.com/bjango/Bjango-Templates/blob/master/Help/Icon%20Sizes.md) page.
-
------
-
 ### Style guide
 
 All templates have been created to match the [Bjango App Icon Templates style guide](https://github.com/bjango/Bjango-Templates/blob/master/Help/Style%20Guide.md).
+
+-----
+
+### Colour management
+
+Where possible, the templates are all set up to use sRGB as the working colour space. Unless you have a very good reason not to, I recommend working in sRGB. If you would like far more detailed information on why, and the settings needed for many design tools, please take a look at my colour management articles (part 3 contains the settings info).
+
+- [Colour management, part 1](https://bjango.com/articles/colourmanagementgamut/)
+- [Colour management, part 2](https://bjango.com/articles/colourmanagementgamma/)
+- [Colour management, part 3](https://bjango.com/articles/colourmanagementsettings/)
 
 -----
 
@@ -198,4 +189,4 @@ If you’re after some more generalised app icon design tips, I’ve written a f
 
 ### Feedback and future plans
 
-These documents are maintained by [@marcedwards](https://twitter.com/marcedwards). If you find errors or have suggestions, I’d love to hear about them. Currently, the Windows Tiles templates are missing some elements. The Sketch quick templates are a bit of an experiment (feedback welcome!).
+These documents are maintained by [@marcedwards](https://twitter.com/marcedwards). If you find errors or have suggestions, I’d love to hear about them. Currently, the Windows Tiles templates are missing some elements.
