@@ -11,6 +11,7 @@ The recommended number of icons required, per platform:
           Apple iOS and iPadOS ██████████████ 14
                    Apple macOS ███████ 7
                     Apple tvOS ███ 3
+                Apple visionOS █ ?
                  Apple watchOS ███████████████ 15
    Apple watchOS Complications ██████████████████████████████████████████ 42
                 Google Android ██████ 6
@@ -95,11 +96,26 @@ Full specs for macOS app icons can be found on [Apple’s developer site](https:
 
 -----
 
-### Apple TV (tvOS)
+### Apple visionOS
+
+- Screen pixel densities: TBA.
+- Masked: Yes, to a circle.
+- Transparency: Not allowed on background layer, allowed on top layers.
+- Layers: 3.
+
+| Size in pixels | Pixel densities | Uses | Colour space |
+|----------------|-----------------|------|--------------|
+| TBA | TBA | TBA | TBA |
+
+Full specs for visionOS app icons can be found on [Apple’s developer site](https://developer.apple.com/design/human-interface-guidelines/app-icons#visionOS).
+
+-----
+
+### Apple tvOS
 
 - Screen pixel densities: 1×, 2×.
 - Masked: Yes, with subtle rounded corners.
-- Transparency: Not allowed.
+- Transparency: Not allowed on background layer, allowed on top layers.
 - Layers: 5.
 
 | Size in pixels | Pixel densities | Uses | Colour space |
@@ -112,7 +128,7 @@ Full specs for tvOS app icons can be found on [Apple’s developer site](https:/
 
 -----
 
-### Apple Watch (watchOS)
+### Apple watchOS
 
 - Screen pixel densities: 2× for the device, 2× and 3× for the app icons displayed on iPhones.
 - Masked: Yes, to a circle.
@@ -141,7 +157,7 @@ Full specs for watchOS app icons can be found on [Apple’s developer site](http
 
 -----
 
-### Apple Watch Complications (watchOS)
+### Apple watchOS Complications
 
 - Screen pixel densities: 2×.
 - Masked: Yes.
